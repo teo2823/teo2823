@@ -1,4 +1,4 @@
-# Welcome, Im Mateo Toro 👨‍💻  <br> A Frontend Developer.
+# Welcome, Im Mateo Toro 👨‍💻  <br> A Software Developer.
 
 ¡Check my Portfolio!
 
