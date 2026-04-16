@@ -7,13 +7,13 @@
 
 ## About me :mag_right:
 
-Hello, my name is Mateo but you can call me Teo! Im a frontend developer from Medellin, Colombia. I like to build clean websites and webApps, writing efficent and elagant code. And I keep learn new things everyday.
+Hello, my name is Mateo but you can call me Teo! Im a frontend developer from Medellin, Colombia. I like to build clean App mobiles, websites and webApps, writing efficent and elagant code. And I keep learn new things everyday.
 
 ## Technologies and Tools :hammer:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,react,sass,git,github,nodejs,bootstrap,tailwind,theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,js,react,sass,git,github,nodejs,aws,next,tailwind,flutter,theme=light" />
   </a>
 </p>
 
@@ -21,8 +21,7 @@ Hello, my name is Mateo but you can call me Teo! Im a frontend developer from Me
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=teo2823" height="150px" alt="Estadística de usos de lenguaje de Mateo Toro">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=teo2823" height="150px" alt="Estadística de Github Profile de Mateo Toro">
-</p>
+
 
 
 
