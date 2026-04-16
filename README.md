@@ -7,13 +7,13 @@
 
 ## About me :mag_right:
 
-Hello, my name is Mateo but you can call me Teo! Im a frontend developer from Medellin, Colombia. I like to build clean App mobiles, websites and webApps, writing efficent and elagant code. And I keep learn new things everyday.
+I’m Mateo, a mobile developer based in Medellín, Colombia, focused on building high-quality, scalable applications with a strong emphasis on user experience and performance. I enjoy turning complex ideas into intuitive, polished products, writing clean and maintainable code along the way. I’m constantly exploring new technologies and approaches to deliver better solutions and grow as a developer.
 
 ## Technologies and Tools :hammer:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,js,react,sass,git,github,nodejs,aws,next,tailwind,flutter,theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,js,react,swift,git,github,nodejs,aws,next,tailwind,flutter,theme=light" />
   </a>
 </p>
 
