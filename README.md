@@ -1,4 +1,4 @@
-# Welcome, Im Mateo Toro 👨‍💻  <br> A Software Developer.
+# Welcome, Im Mateo Toro 👨‍💻  <br> A Mobile Developer.
 
 ¡Check my Portfolio!
 
